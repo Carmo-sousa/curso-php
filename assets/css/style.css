@@ -135,3 +135,19 @@ h6 {
 .module.border-pewter-blue {
   border-color: #93a8ac;
 }
+
+.module-title.background-orange-soda {
+  background-color: #e55934;
+}
+
+.module.border-orange-soda {
+  border-color: #e55934;
+}
+
+.module-title.background-rajah {
+  background-color: #f5a65b;
+}
+
+.module.border-rajah {
+  border-color: #f5a65b;
+}

@@ -29,6 +29,11 @@
   height: calc(100vh - 240px);
 }
 
+.title--big {
+  border-bottom: 1px solid #999999;
+  padding-bottom: 10px;
+}
+
 .green {
   background-color: green;
 }
