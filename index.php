@@ -10,6 +10,37 @@
 </head>
 
 <body>
+    <header class="header">
+        <h1 class="title">Curso PHP</h1>
+        <h2 class="sub-title">Índice dos exercícios</h2>
+    </header>
+    <main class="main">
+        <div class="content">
+            <nav class="modules">
+                <div class="module border-charcoal">
+                    <h3 class="module-title background-charcoal">Módulo 01</h3>
+                    <ul>
+                        <li class="list-item"><a href="./pages/exercise.php" class="link">Exercício A</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
+                    </ul>
+                </div>
+                <div class="module border-pewter-blue">
+                    <h3 class="module-title background-pewter-blue">Módulo 02</h3>
+                    <ul>
+                        <li class="list-item"><a href="#" class="link">Exercício A</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
+                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </main>
+    <footer class="footer">
+        COD3R &amp; ALUNOS &copy; <?= date('Y'); ?>
+    </footer>
 </body>
 
 </html>

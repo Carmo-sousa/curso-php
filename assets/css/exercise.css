@@ -1,0 +1,38 @@
+.exercise {
+  display: grid;
+  grid-template-rows: 120px 60px 1fr 60px;
+  grid-template-areas:
+    "header"
+    "navigation"
+    "main"
+    "footer";
+}
+
+.navigation {
+  align-items: center;
+  background-color: #555555;
+  grid-area: navigation;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navigation__link {
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+  letter-spacing: 0.1em;
+  padding: 10px;
+  margin-right: 10px;
+  color: #ffffff;
+}
+
+.main {
+  height: calc(100vh - 240px);
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
