@@ -22,36 +22,6 @@
                     <h3 class="module-title background-charcoal">Módulo 01</h3>
                     <ul>
                         <li class="list-item"><a href="./pages/exercise.php?dir=basic&file=01-ola" class="link">Olá PHP</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
-                    </ul>
-                </div>
-                <div class="module border-pewter-blue">
-                    <h3 class="module-title background-pewter-blue">Módulo 02</h3>
-                    <ul>
-                        <li class="list-item"><a href="#" class="link">Exercício A</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
-                    </ul>
-                </div>
-                <div class="module border-orange-soda">
-                    <h3 class="module-title background-orange-soda">Módulo 03</h3>
-                    <ul>
-                        <li class="list-item"><a href="#" class="link">Exercício A</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
-                    </ul>
-                </div>
-                <div class="module border-rajah">
-                    <h3 class="module-title background-rajah">Módulo 04</h3>
-                    <ul>
-                        <li class="list-item"><a href="#" class="link">Exercício A</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício B</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício C</a></li>
-                        <li class="list-item"><a href="#" class="link">Exercício D</a></li>
                     </ul>
                 </div>
             </nav>
