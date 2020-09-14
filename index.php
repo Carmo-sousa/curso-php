@@ -21,7 +21,7 @@
                 <div class="module border-charcoal">
                     <h3 class="module-title background-charcoal">Módulo 01</h3>
                     <ul>
-                        <li class="list-item"><a href="./pages/exercise.php?dir=module01&file=01-variable" class="link">Exercício A</a></li>
+                        <li class="list-item"><a href="./pages/exercise.php?dir=basic&file=01-ola" class="link">Olá PHP</a></li>
                         <li class="list-item"><a href="#" class="link">Exercício B</a></li>
                         <li class="list-item"><a href="#" class="link">Exercício C</a></li>
                         <li class="list-item"><a href="#" class="link">Exercício D</a></li>
